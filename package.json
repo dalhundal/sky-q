@@ -1,6 +1,6 @@
 {
   "name": "sky-q",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sky Q",
   "main": "lib/SkyQ.js",
   "scripts": {

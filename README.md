@@ -16,7 +16,7 @@ $ npm install --save sky-q
 ```js
 const SkyQ = require('sky-q');
 
-const box = new SkyQ('10.10.10.10')
+const box = new SkyQ({ip:'10.10.10.10'})
 // Where 10.10.10.10 is the address of the SkyQ box you want to interact with
 
 box.getPowerState().then(isOn=>{

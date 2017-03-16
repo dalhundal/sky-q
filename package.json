@@ -1,0 +1,19 @@
+{
+  "name": "sky-q",
+  "version": "1.0.0",
+  "description": "Sky Q",
+  "main": "lib/SkyQ.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dal Hundal",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "dalhundal/sky-q"
+  },
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.3"
+  }
+}
